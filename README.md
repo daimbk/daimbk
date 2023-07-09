@@ -14,6 +14,21 @@
 </p>
 
 <hr>
+<div align="center">
+ <h2>Languages</h2>
+ 
+ [![My Skills](https://skillicons.dev/icons?i=py,cpp)](https://skillicons.dev)
+</div>
+
+<hr>
+
+<div align="center">
+ <h2>Tools</h2>
+ 
+ [![My Skills](https://skillicons.dev/icons?i=github,git,vscode)](https://skillicons.dev)
+</div>
+
+<hr>
 
 <div align="center">
 <h2>🔥 &nbsp; My Stats</h2>
