@@ -6,7 +6,7 @@
  
 <p align="center">
   <samp>
-    I have a special love for solving coding problems. If I'm not being a student I work on side projects or indulge in gaming. Gaming itself has sparked an interest in me to learn to make them as well.
+    Learning and improving but never forgetting to have fun with coding. If I'm not being a student, I work on side projects or indulge in gaming. Main interests are game development and AI.
   </samp>
  <br>
  <samp>Open To Collab.</samp>
