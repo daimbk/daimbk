@@ -18,7 +18,7 @@
 <div align="center">
  <h2>Languages</h2>
  
- [![My Skills](https://skillicons.dev/icons?i=py,cpp,c)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=py,cpp,c,cs)](https://skillicons.dev)
 </div>
 
 <hr>
@@ -26,7 +26,7 @@
 <div align="center">
  <h2>Tools</h2>
  
- [![My Skills](https://skillicons.dev/icons?i=github,git,vscode)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,visualstudio,unity)](https://skillicons.dev)
 </div>
 
 <hr>
