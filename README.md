@@ -2,11 +2,13 @@
 **daimbk/daimbk ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
- <h1 align="center">Hello, I'm Daim 👋</h1>
+ <h1 align="center">Hi, I'm Daim 👋</h1>
  
 <p align="center">
   <samp>
-    Learning and improving but never forgetting to have fun with coding. If I'm not being a student, I work on side projects or indulge in gaming. Main interests are game development and AI.
+    Learning, improving and having fun. If I'm not being a student, I work on side projects or indulge in gaming.
+    <br>
+    Currently learning Rust and Game Development.
   </samp>
  <br>
  <samp>Open To Collab.</samp>
@@ -36,7 +38,10 @@
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daimbk&theme=codestackr&background=020f1b)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daimbk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daimbk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<img  width=275px src="https://github-readme-stats.vercel.app/api/top-langs/?username=daimbk&theme=merko&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook&hide_border=true&bg_color=0d1117" /> 
+<img width=525px src="https://github-readme-activity-graph.vercel.app/graph/?username=daimbk&theme=merko&hide_border=true&bg_color=0d1117" />
 </div>
 
 <hr>
