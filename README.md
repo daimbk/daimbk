@@ -11,7 +11,7 @@
     Currently learning Rust and Game Development.
   </samp>
  <br>
- <samp>Open To Collab.</samp>
+ <samp>Project Collabs are Welcome.</samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=daimbk" alt="https://github.com/daimbk" />
 </p>
