@@ -10,8 +10,8 @@
 <!-- <h1 align="center">Hi, I'm Daim 👋</h1> -->
 
 <div align="center">
-   <p>:books: If I'm not being a student, I work on side projects or indulge in gaming.</p>
-   <p>:computer: Currently learning Rust and Game Development.</p>
+   <p>:books: If I'm not being a student, I do side projects or gaming.</p>
+   <p>:computer: Currently learning Rust and Web Apps.</p>
    <p>:handshake: Project Collabs are Welcome.</p>
    <img src="https://komarev.com/ghpvc/?username=daimbk" alt="https://github.com/daimbk" />
 </div>
