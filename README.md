@@ -35,14 +35,14 @@
 <hr>
 
 <div align="center">
-<h2>🔥 &nbsp; My Stats</h2>
+  <h2>🔥 &nbsp; My Stats</h2>
+    
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daimbk&theme=burnt-neon&fire=01FED1&currStreakNum=FFFFFF&ring=7d12ff&hide_border=true&sideLabels=FFFFFF&dates=FE347E)](https://git.io/streak-stats)
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daimbk&theme=codestackr&background=020f1b)](https://git.io/streak-stats)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daimbk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<img  width=275px src="https://github-readme-stats.vercel.app/api/top-langs/?username=daimbk&theme=merko&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook&hide_border=true&bg_color=0d1117" /> 
-<img width=525px src="https://github-readme-activity-graph.vercel.app/graph/?username=daimbk&theme=merko&hide_border=true&bg_color=0d1117" />
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daimbk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+  
+  <img  width=275px src="https://github-readme-stats.vercel.app/api/top-langs/?username=daimbk&theme=react-dark&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook&hide_border=true&bg_color=0d1117&title_color=01FED1" /> 
+  <img width=525px src="https://github-readme-activity-graph.vercel.app/graph/?username=daimbk&theme=react-dark&hide_border=true&bg_color=0d1117&title_color=01FED1&line=7d12ff" />
 </div>
 
 <hr>
