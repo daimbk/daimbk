@@ -29,7 +29,7 @@
 <div align="center">
  <h2>Tools</h2>
  
- [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,visualstudio,unity)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,visualstudio)](https://skillicons.dev)
 </div>
 
 <hr>
