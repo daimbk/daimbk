@@ -11,7 +11,7 @@
 
 <div align="center">
    <p>:books: If I'm not being a student, I do side projects or gaming.</p>
-   <p>:computer: Currently learning Rust and Web Apps.</p>
+   <p>:computer: Currently learning Web Apps.</p>
    <p>:handshake: Project Collabs are Welcome.</p>
    <img src="https://komarev.com/ghpvc/?username=daimbk" alt="https://github.com/daimbk" />
 </div>
@@ -21,7 +21,7 @@
 <div align="center">
  <h2>Languages</h2>
  
- [![My Skills](https://skillicons.dev/icons?i=py,rust,cpp,c,html,css,js)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=py,cpp,c,html,css,js)](https://skillicons.dev)
 </div>
 
 <hr>
@@ -52,5 +52,5 @@
   <a href="mailto:daimbkhalid@gmail.com?subject=Hello%20Daim,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://www.linkedin.com/in/daimbinkhalid/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://discord.com/users/590241503905972363"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a target="_blank"href="https://leetcode.com/daimk/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <!-- <a target="_blank"href="https://leetcode.com/daimk/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
 </p>
