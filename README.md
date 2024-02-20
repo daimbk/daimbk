@@ -11,7 +11,7 @@
 
 <div align="center">
    <p>:books: If I'm not being a student, I do side projects or gaming.</p>
-   <p>:computer: Currently learning Web Apps.</p>
+   <p>:computer: Currently making my own compiler.</p>
    <p>:handshake: Project Collabs are Welcome.</p>
    <img src="https://komarev.com/ghpvc/?username=daimbk" alt="https://github.com/daimbk" />
 </div>
