@@ -11,8 +11,7 @@
 
 <div align="center">
    <p>:books: If I'm not being a student, I do side projects or gaming.</p>
-   <p>:computer: Currently making my own compiler.</p>
-   <p>:handshake: Project Collabs are Welcome.</p>
+   <p>:computer: Currently learning compilers.</p>
    <img src="https://komarev.com/ghpvc/?username=daimbk" alt="https://github.com/daimbk" />
 </div>
 
@@ -35,7 +34,7 @@
 <hr>
 
 <div align="center">
-  <h2>🔥 &nbsp; My Stats</h2>
+  <h2>&nbsp; My Stats</h2>
     
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daimbk&theme=burnt-neon&fire=01FED1&currStreakNum=FFFFFF&ring=7d12ff&hide_border=true&sideLabels=FFFFFF&dates=FE347E)](https://git.io/streak-stats)
   
