@@ -11,7 +11,7 @@
 
 <div align="center">
    <p>:books: If I'm not being a student, I do side projects or gaming.</p>
-   <p>:computer: Currently learning compilers.</p>
+   <p>:computer: DevOps | GameDev | WebDev</p>
    <img src="https://komarev.com/ghpvc/?username=daimbk" alt="https://github.com/daimbk" />
 </div>
 
@@ -20,7 +20,7 @@
 <div align="center">
  <h2>Languages</h2>
  
- [![My Skills](https://skillicons.dev/icons?i=py,cpp,c,html,css,js)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,html,css,js)](https://skillicons.dev)
 </div>
 
 <hr>
@@ -28,7 +28,7 @@
 <div align="center">
  <h2>Tools</h2>
  
- [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,visualstudio)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,visualstudio,godot)](https://skillicons.dev)
 </div>
 
 <hr>
