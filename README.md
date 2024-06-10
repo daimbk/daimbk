@@ -1,29 +1,21 @@
-<!--
-**daimbk/daimbk ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 <h1 align="center">
   <img src="https://github.com/daimbk/daimbk/assets/51926730/ef7ddc9e-b027-4cab-b4da-864e90450b5e" width="1200" height="250" />
   <br><br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&width=435&lines=Hi%2C+I'm+Daim+%F0%9F%91%8B;Enjoy+Your+Stay." alt="Typing SVG" /></a>
 </h1>
 
-<!-- <h1 align="center">Hi, I'm Daim 👋</h1> -->
-
-<!--
 <div align="center">
-   <p>:books: If I'm not being a student, I do side projects or gaming.</p>
-   <p>:computer: DevOps | GameDev | WebDev</p>
+   <p>:books: studies, side projects & gaming.</p>
+   <p>:computer: DevOps | WebDev | GameDev</p>
    <img src="https://komarev.com/ghpvc/?username=daimbk" alt="https://github.com/daimbk" />
 </div>
 
-
 <hr>
--->
 
 <div align="center">
  <h2>Languages</h2>
- 
- [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,cs,html,css,js)](https://skillicons.dev)
+
+ [![My Skills](https://skillicons.dev/icons?i=py,c,cs,html,css,js)](https://skillicons.dev)
 </div>
 
 <hr>
