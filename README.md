@@ -6,7 +6,7 @@
 
 <div align="center">
    <p>:books: studies, side projects & gaming.</p>
-   <p>:computer: DevOps | WebDev | GameDev</p>
+   <p>:computer: WebDev | GameDev</p>
    <img src="https://komarev.com/ghpvc/?username=daimbk" alt="https://github.com/daimbk" />
 </div>
 
