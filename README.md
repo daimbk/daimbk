@@ -25,9 +25,9 @@
  
  [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,visualstudio,godot)](https://skillicons.dev)
 </div>
--->
 
 <hr>
+-->
 
 <div align="center">
   <h2>&nbsp; My Stats</h2>
