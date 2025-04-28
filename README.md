@@ -5,13 +5,13 @@
 </h1>
 
 <div align="center">
-   <p>:books: studies, side projects & gaming.</p>
-   <p>:computer: WebDev | GameDev</p>
+   <p>:computer: IT Guy | WebDev</p>
    <img src="https://komarev.com/ghpvc/?username=daimbk" alt="https://github.com/daimbk" />
 </div>
 
 <hr>
 
+<!--
 <div align="center">
  <h2>Languages</h2>
 
@@ -25,6 +25,7 @@
  
  [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,visualstudio,godot)](https://skillicons.dev)
 </div>
+-->
 
 <hr>
 
